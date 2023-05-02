@@ -1,4 +1,4 @@
-<p align="center"><a href="https://animapix.itch.io/"><img width="50%" src="https://www.animapix.fr/Images/Monochrome%20w.png" /></a></p>
+<p align="center"><a href="https://animapix.itch.io/"><img width="50%" src="https://www.animapix.fr/Images/AnimapixLogo.svg" /></a></p>
 
 ## About me
 I'm Nicolas POINTET from France, I'm a game developer and I like to learn new languages, tools, framework and algorithms. I also like graphics and motion design, I have the chance to live my passion and discover new things every day, I hope to continue to improve in programming.
